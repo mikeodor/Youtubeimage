@@ -31,7 +31,7 @@ class Header extends Component {
                 <a class="nav-link" href="#">
                   <span>
                     {" "}
-                    <Link to="/Donate" className="btn btn-success btn-sm">
+                    <Link to="/donate" className="btn btn-success btn-sm">
                       Donate{" "}
                     </Link>
                   </span>
