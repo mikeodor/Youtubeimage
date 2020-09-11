@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e9298ff61d421f136281e25610e1cd",
+    "revision": "77759cb4a4305b18ebf541f240c8c57f",
     "url": "/Youtubeimage/index.html"
   },
   {
-    "revision": "88adbd89560948d65508",
+    "revision": "b63b1aca0d8f1e85ae6f",
     "url": "/Youtubeimage/static/css/main.9e31b652.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Youtubeimage/static/js/2.342a2b0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88adbd89560948d65508",
-    "url": "/Youtubeimage/static/js/main.84b22220.chunk.js"
+    "revision": "b63b1aca0d8f1e85ae6f",
+    "url": "/Youtubeimage/static/js/main.9ce86541.chunk.js"
   },
   {
     "revision": "98ac37f21667226eabaf",
