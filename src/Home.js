@@ -18,7 +18,7 @@ class Home extends Component {
       <main>
         <Header />
         <Switch>
-          <Route path="/" component={App} exact />
+          <Route path="/Youtubeimage" component={App} exact />
 
           <Route path="/donate" component={Donate} />
         </Switch>
