@@ -1,2 +1,2 @@
-# Youtubethumbnailgenertaor
+# Youtube thumbnail genertaor
 Generate youtube thumbnails
