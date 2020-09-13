@@ -23,7 +23,7 @@ class App extends Component {
   };
 
   submitHandler = (event) => {
-    this.state.mytext.includes("youtube.com")
+    this.state.mytext.includes("youtu")
       ? this.setState({
           value: this.state.mytext.slice(-11),
           error: "",
